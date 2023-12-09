@@ -1,4 +1,6 @@
-# Hyprland Configuration Files by Titus
+# Hyprland Configuration Files by Ty
+
+#Full Credit goes to Chris Titus / He is a fantastic nitpick developer!
 
 ![Screenshot](https://github.com/ChrisTitusTech/hyprland-titus/raw/main/hyprland-titus.png)
 
